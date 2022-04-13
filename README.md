@@ -1,7 +1,4 @@
 
-ap33772-arduino code
-
-
 # AP33772 I2C Tester example using Arduino
 
 There are two files in the AP33772 I2C Tester example code.
