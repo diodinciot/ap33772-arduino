@@ -1,5 +1,5 @@
 
-ap33772-arduino
+ap33772-arduino code
 
 
 # AP33772 I2C Tester example using Arduino
